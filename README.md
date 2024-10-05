@@ -1,5 +1,9 @@
 
-# Programming Mastery Checklist
+# The Programming Mastery Checklist
+
+As a programmer, one encounters complex concepts that are fundamental to understanding and developing quick, efficient, and secure software. However, on a bareminimum functional standpoint it is easy to overlook these concepts after learning them once in your class. Especially with the wealth of resources and generative ai available online that can help one practically fill out the gaps in knowledge. However, it is crucial to understand programming, and on a broader sense, computers, to excel as a programmer.
+
+    To be clear, this resource is not to learn the concepts from scratch, but to review and bolster one's understanding, so a level of competency can be maintained at any given time. To make the challenge more compelelling, try finishing, all the exercises in a terminal environment.
 
 ## 1. Data Structures Mastery
 
